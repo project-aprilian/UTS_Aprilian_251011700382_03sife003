@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="390" viewBox="0 0 520 390" role="img" aria-label="Gado-Gado">
+  <defs><linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fffaf0"/><stop offset="1" stop-color="#e5efcf"/></linearGradient></defs>
+  <rect width="520" height="390" rx="26" fill="url(#background)"/>
+  <circle cx="80" cy="65" r="28" fill="#4b995a" opacity=".18"/><circle cx="445" cy="315" r="42" fill="#b77b37" opacity=".12"/>
+  <ellipse cx="260" cy="303" rx="155" ry="20" fill="#6b4a2d" opacity=".10"/>
+  <ellipse cx="260" cy="205" rx="124" ry="80" fill="#fff" stroke="#e0d8ca" stroke-width="5"/>
+        <ellipse cx="260" cy="205" rx="95" ry="55" fill="#e5efcf"/>
+        <circle cx="215" cy="190" r="22" fill="#b77b37"/><circle cx="262" cy="214" r="25" fill="#4b995a"/><circle cx="302" cy="184" r="20" fill="#b77b37"/>
+  <text x="260" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#264537">Gado-Gado</text>
+  <text x="260" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#6c786f">Makanan Utama</text>
+</svg>

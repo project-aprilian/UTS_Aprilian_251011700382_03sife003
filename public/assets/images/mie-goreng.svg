@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="390" viewBox="0 0 520 390" role="img" aria-label="Mie Goreng">
+  <defs><linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fffaf0"/><stop offset="1" stop-color="#f5dca6"/></linearGradient></defs>
+  <rect width="520" height="390" rx="26" fill="url(#background)"/>
+  <circle cx="80" cy="65" r="28" fill="#57934f" opacity=".18"/><circle cx="445" cy="315" r="42" fill="#d79b35" opacity=".12"/>
+  <ellipse cx="260" cy="303" rx="155" ry="20" fill="#6b4a2d" opacity=".10"/>
+  <ellipse cx="260" cy="205" rx="124" ry="80" fill="#fff" stroke="#e0d8ca" stroke-width="5"/>
+        <ellipse cx="260" cy="202" rx="98" ry="59" fill="#f5dca6"/>
+        <path d="M190 190 q20 -20 35 0 t35 0 t35 0 t35 0 M195 215 q20 -20 35 0 t35 0 t35 0 t35 0" fill="none" stroke="#d79b35" stroke-width="12" stroke-linecap="round"/>
+        <circle cx="220" cy="176" r="9" fill="#57934f"/><circle cx="280" cy="225" r="8" fill="#57934f"/><circle cx="310" cy="184" r="8" fill="#57934f"/>
+        <ellipse cx="275" cy="170" rx="31" ry="24" fill="#fffdf4" stroke="#e6d6b9" stroke-width="3"/><circle cx="275" cy="170" r="12" fill="#f5b62f"/>
+  <text x="260" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#264537">Mie Goreng</text>
+  <text x="260" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#6c786f">Makanan Utama</text>
+</svg>

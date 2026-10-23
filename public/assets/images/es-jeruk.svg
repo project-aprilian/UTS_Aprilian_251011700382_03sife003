@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="390" viewBox="0 0 520 390" role="img" aria-label="Es Jeruk">
+  <defs><linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fffaf0"/><stop offset="1" stop-color="#d9f1f4"/></linearGradient></defs>
+  <rect width="520" height="390" rx="26" fill="url(#background)"/>
+  <circle cx="80" cy="65" r="28" fill="#f5d75e" opacity=".18"/><circle cx="445" cy="315" r="42" fill="#f3a329" opacity=".12"/>
+  <ellipse cx="260" cy="303" rx="155" ry="20" fill="#6b4a2d" opacity=".10"/>
+  <path d="M190 118 L320 118 L302 280 Q300 295 284 295 L226 295 Q210 295 208 280 Z" fill="#f3a329" opacity=".88" stroke="#fff" stroke-width="5"/>
+        <path d="M215 150 L300 150" stroke="#f8e9bf" stroke-width="8" opacity=".8"/>
+        <rect x="220" y="135" width="32" height="32" rx="7" fill="#fff" opacity=".55" transform="rotate(-12 236 151)"/>
+        <rect x="265" y="180" width="30" height="30" rx="7" fill="#fff" opacity=".45" transform="rotate(14 280 195)"/>
+        <path d="M256 113 L310 48" stroke="#6c4b2d" stroke-width="9" stroke-linecap="round"/>
+        <circle cx="325" cy="100" r="35" fill="#f5d75e" stroke="#fff1c5" stroke-width="7"/>
+        <circle cx="325" cy="100" r="24" fill="none" stroke="#fff1c5" stroke-width="3"/>
+        <path d="M325 77 L325 123 M302 100 L348 100 M309 84 L341 116 M341 84 L309 116" stroke="#fff1c5" stroke-width="3"/>
+  <text x="260" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#264537">Es Jeruk</text>
+  <text x="260" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#6c786f">Minuman</text>
+</svg>

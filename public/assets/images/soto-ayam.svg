@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="390" viewBox="0 0 520 390" role="img" aria-label="Soto Ayam">
+  <defs><linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fffaf0"/><stop offset="1" stop-color="#f6e7a8"/></linearGradient></defs>
+  <rect width="520" height="390" rx="26" fill="url(#background)"/>
+  <circle cx="80" cy="65" r="28" fill="#4e9b62" opacity=".18"/><circle cx="445" cy="315" r="42" fill="#e2b84c" opacity=".12"/>
+  <ellipse cx="260" cy="303" rx="155" ry="20" fill="#6b4a2d" opacity=".10"/>
+  <ellipse cx="260" cy="205" rx="122" ry="83" fill="#fff" stroke="#d8dfd2" stroke-width="5"/>
+        <ellipse cx="260" cy="202" rx="100" ry="61" fill="#f6e7a8"/>
+        <path d="M190 180 Q210 160 225 184 T260 184 T295 184 T330 180" fill="none" stroke="#4e9b62" stroke-width="14" stroke-linecap="round"/>
+        <circle cx="213" cy="213" r="15" fill="#f3a83a"/><circle cx="290" cy="222" r="17" fill="#f3a83a"/>
+        <path d="M240 165 l28 20 -18 17 -26 -20 Z" fill="#e2b84c"/>
+        <path d="M310 166 l18 15 -20 15 -17 -14 Z" fill="#e2b84c"/>
+        <path d="M178 208 l24 -10 M284 176 l18 -8 M240 236 l22 -7" stroke="#4b995a" stroke-width="7" stroke-linecap="round"/>
+  <text x="260" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#264537">Soto Ayam</text>
+  <text x="260" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#6c786f">Sup</text>
+</svg>

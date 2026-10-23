@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="390" viewBox="0 0 520 390" role="img" aria-label="Rendang Sapi">
+  <defs><linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fffaf0"/><stop offset="1" stop-color="#e9c9a8"/></linearGradient></defs>
+  <rect width="520" height="390" rx="26" fill="url(#background)"/>
+  <circle cx="80" cy="65" r="28" fill="#c65a2e" opacity=".18"/><circle cx="445" cy="315" r="42" fill="#71351f" opacity=".12"/>
+  <ellipse cx="260" cy="303" rx="155" ry="20" fill="#6b4a2d" opacity=".10"/>
+  <ellipse cx="260" cy="205" rx="116" ry="78" fill="#71351f"/>
+        <path d="M180 174 Q205 140 233 177 Q253 143 281 173 Q312 146 337 183 Q360 207 330 231 Q306 252 279 225 Q250 252 225 225 Q195 242 177 212 Z" fill="#c65a2e"/>
+        <path d="M210 179 l18 -8 M260 200 l18 -8 M303 185 l16 7 M235 223 l14 -7" stroke="#f1c17a" stroke-width="7" stroke-linecap="round"/>
+        <ellipse cx="260" cy="205" rx="124" ry="86" fill="none" stroke="#fff" stroke-width="9"/>
+  <text x="260" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#264537">Rendang Sapi</text>
+  <text x="260" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#6c786f">Makanan Utama</text>
+</svg>

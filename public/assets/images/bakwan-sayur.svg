@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="390" viewBox="0 0 520 390" role="img" aria-label="Bakwan Sayur">
+  <defs><linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fffaf0"/><stop offset="1" stop-color="#f4dc9b"/></linearGradient></defs>
+  <rect width="520" height="390" rx="26" fill="url(#background)"/>
+  <circle cx="80" cy="65" r="28" fill="#64984b" opacity=".18"/><circle cx="445" cy="315" r="42" fill="#c9872e" opacity=".12"/>
+  <ellipse cx="260" cy="303" rx="155" ry="20" fill="#6b4a2d" opacity=".10"/>
+  <ellipse cx="260" cy="205" rx="124" ry="80" fill="#fff" stroke="#e0d8ca" stroke-width="5"/>
+        <path d="M178 190 Q182 155 217 168 Q239 144 260 169 Q290 148 311 173 Q344 176 337 207 Q328 238 294 226 Q269 248 244 226 Q212 245 190 222 Z" fill="#c9872e"/>
+        <path d="M190 182 l29 13 M230 172 l24 18 M278 177 l25 13 M221 211 l25 -5 M282 218 l24 -8" stroke="#64984b" stroke-width="8" stroke-linecap="round"/>
+  <text x="260" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#264537">Bakwan Sayur</text>
+  <text x="260" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#6c786f">Camilan</text>
+</svg>
